@@ -24,7 +24,8 @@ public class example1 {
         nama=input.nextLine();
         System.out.println("Tahun : " );
         tahun=input.nextInt();
-        
+        System.out.println("Kelas : " );
+        tahun=input.nextInt();
     }
     
 }
